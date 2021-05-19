@@ -17,4 +17,4 @@ This is my [notebook](https://github.com/s185227/technical-discussion/blob/main/
 
 ## Image
 
-[image](https://github.com/s185227/technical-discussion/issues/1)
+![image](https://user-images.githubusercontent.com/70035657/118822750-b54abf00-b8b8-11eb-8e4c-5abaab259980.png)
