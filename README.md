@@ -13,3 +13,8 @@ This is my Gist [my code](https://gist.github.com/s185227/cca87738b579f541031a1d
 
 ### Notebook example
 This is my [notebook](https://github.com/s185227/technical-discussion/blob/main/technicaldocs.ipynb)
+
+
+## Image
+
+[image](https://github.com/s185227/technical-discussion/issues/1)
